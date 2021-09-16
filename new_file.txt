@@ -1,0 +1,1 @@
+Open Browser    https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login    ${BROWSER},Click Element    xpath=(//button)[3],Select From List By Value    //select[@name="userSelect"]    3,Click Element    xpath=(//button)[3]

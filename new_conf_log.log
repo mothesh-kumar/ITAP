@@ -1,0 +1,11 @@
+{'Date': '15/09/2021',
+ 'Time': '23:24:03',
+ 'Application Name': 'xyz',
+ 'Scenario Name': 'case4',
+ 'Status': 'failed',
+ 'Time in Seconds': '16s941ms',
+ 'WebDriver Instance': '0 instance(s) of WebDriver still running',
+ 'Error Message': ['chrome not reachable'],
+ 'Error lines in spec': ['17'],
+ 'Test Description': '1. Open browser and navigate to URL: <br>"https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login" <br>2. Click on 02nd button in the current page<br>3. Click on the button with name "userSelect"<br>4. Click on 02nd button in the current page<br>'},
+
